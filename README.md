@@ -5,7 +5,7 @@ but it's in BETA right now.
 Find all the versions [here](https://github.com/megatag1234/ScootPark/tree/ScootPark-BETA)
 
 # How to download
-To play the game, go download it by clicking [here](https://github.com/megatag1234/ScootPark/tree/ScootPark-BETA)
+To play the game, go download the latest version by clicking [here](https://github.com/megatag1234/ScootPark/raw/ScootPark-BETA/ScootPark%20(BETA%201.1).sb3)
 Next go to [scratch.mit.edu](scratch.mit.edu) and click create.
 Click the file icon and tap import from computer.
 Next, tap the green flag and PLAY (;
