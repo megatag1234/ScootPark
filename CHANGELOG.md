@@ -5,7 +5,7 @@ All you could do in this first ever version was accelerate, deccelerate and jump
 ## Time to ride
 Now you can do manuals and grinds.
 # BETA 1.12
-# WE HAVE SOUND EVERYBODY!!!
+## WE HAVE SOUND EVERYBODY!!!
 Fixed gravity issues and added sound effects.
 # BETA 1.2
 ## 360°s y'all!
