@@ -10,3 +10,8 @@ Fixed gravity issues and added sound effects.
 # BETA 1.2
 ## 360°s y'all!
 Added the 360° spin and put nice animations on the thumbnail.
+# BETA 1.3
+## CONTROLLER SUPPORT!!!!!!
+### AND HOW WAS THIS VERSION MADE ON THE SAME DAY AS VERSION BETA 1.2!!!!!!
+Umm... I added controller support and... umm... a cool background I found on the internet, 
+I'm working on my own background which might come in version BETA 1.4 or something /:
