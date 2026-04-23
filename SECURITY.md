@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-Non of them really need security but here is the supported security stuff versions...
+Only the BETA versions can be hacked:
 
 | Version  | Supported          |
 | -------  | ------------------ |
